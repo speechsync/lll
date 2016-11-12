@@ -1,0 +1,14 @@
+[1102/191625:ERROR:tcp_socket_win.cc(360)] bind() returned an error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (0x2740)
+[1102/191625:ERROR:devtools_http_handler_impl.cc(728)] Cannot start http server for devtools. Stop devtools.
+[1102/191625:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[1102/191625:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[1102/191626:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[1102/191626:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[1102/191626:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[1102/191626:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[1102/210143:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[1102/210959:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[1112/010454:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[1112/010454:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[1112/010455:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[1112/010455:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
